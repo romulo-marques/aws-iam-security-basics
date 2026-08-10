@@ -18,3 +18,10 @@ Este projeto demonstra as melhores práticas de segurança e controle de acesso 
    * Associado o usuário ao grupo de administradores.
 4. **Governança e Boas Práticas:**
    * Bloqueado o uso cotidiano da conta Root, realizando todas as operações diárias através do usuário IAM dedicado.
+## 📸 Evidências de Execução
+
+### 1. Configuração do Usuário IAM e Políticas de Acesso
+<img width="954" height="504" alt="image" src="https://github.com/user-attachments/assets/f4bc55aa-8b59-4631-ac49-88df52277591" />
+
+
+### 2. Autenticação Multi-fator (MFA) Ativada
