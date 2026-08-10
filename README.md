@@ -25,3 +25,4 @@ Este projeto demonstra as melhores práticas de segurança e controle de acesso 
 
 
 ### 2. Autenticação Multi-fator (MFA) Ativada
+<img width="967" height="513" alt="image" src="https://github.com/user-attachments/assets/78f5568b-091b-4d4a-a382-c6cf1be54ff2" />
